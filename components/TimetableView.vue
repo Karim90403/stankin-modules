@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref,nextTick } from 'vue';
 import TheTimetable from '@/components/TheTimetable.vue'; // @ is an alias to /src
-// import { Calendar, DatePicker } from 'v-calendar';
+import { Calendar, DatePicker } from 'v-calendar';
 import '@vuepic/vue-datepicker/dist/main.css'
 import BaseIcon from '@/components/BaseIcon.vue';
 
