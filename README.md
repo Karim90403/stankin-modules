@@ -1,63 +1,27 @@
-# Nuxt 3 Minimal Starter
+## Добро пожаловать в stankin_modules
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Это обновленный модульный журнал станкина
+Он послужит отличной заменой андроид приложения,
+Пользователи iphone, android смартфонов,и ноутбуков смогут посмотреть свои модули, свое расписание и расписание преподователей
+Так же существенно переработан дизайн
 
-## Setup
+## Работа с приложением ##
 
-Make sure to install the dependencies:
+Так как это программа `open sourse`, можно доработать ее саммому
+Эта программа использует `Vue.js` + `Nuxt.js` + `TypeScript `
 
-```bash
-# npm
+# Установка
+```
+
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
+# Компиляция и перезагрузка/запуск
+```
+npm run serve
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
+# Компиляция
+```
 npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
 ```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
